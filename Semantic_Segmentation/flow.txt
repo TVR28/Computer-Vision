@@ -1,0 +1,9 @@
+1. Create conda env and install all req
+2. Collect Data and annotate them manually by creating labels (cvat.ai)
+3. Download the data in segmenttaion 1.1 format.
+4. Then create a data folder with 2 subfolders (masks and labels)
+5. Place all the masked images in SegmentationClass folder into masks folder.
+6. Run the `mask_to_polygon.py` file to create labels for all the masks 
+7. Modify the file structure into data -> images, labels, masks -> train, val for every folder
+8. create a config.yaml file with keywords
+9. Since we need a gpu, instead of running the train.py file locally, I'm gonna use Google Colab for T4 GPU.
