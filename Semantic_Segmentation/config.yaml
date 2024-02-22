@@ -1,0 +1,6 @@
+path: C:/Users/tvrr28/semantc_segmentation/data
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['Tiger']
