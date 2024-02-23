@@ -1,0 +1,7 @@
+requests
+opencv-python
+numpy
+Pillow
+streamlit
+streamlit-image-coordinates
+streamlit-dimensions
