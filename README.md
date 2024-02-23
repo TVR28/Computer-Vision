@@ -218,6 +218,9 @@ This section outlines the key steps involved in setting up and configuring the V
     - Select Python 3.11 as the runtime.
     - Assign the `SQSBasicLambdaExecutionRole` created earlier.
 
+![image](https://github.com/TVR28/VidSummAPI/assets/91713140/853e4ba6-a734-4a3a-8596-fc7caf832cad)
+
+
 2. **Lambda Function Configuration**:
     - In the General Configuration, set the timeout to 1 minute.
     - In Asynchronous Invocation, set the retry attempts to 0.
