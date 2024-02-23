@@ -1,4 +1,6 @@
 # Computer Vision
+## Background Removal Using Segment Any
+![background_removal](https://github.com/TVR28/Computer-Vision/assets/91713140/9d0dd985-7f09-4c5d-9d1e-91e2fa3f232d)
 
 ## Semantic Segmentation
 ![image](https://github.com/TVR28/Computer-Vision/assets/91713140/25f9f78d-f3b8-4fc3-b90e-9b56267ed849)
