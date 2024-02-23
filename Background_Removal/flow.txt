@@ -1,0 +1,4 @@
+- To create a func to call to remove background - python, Segment Anything Model, Colab
+- Deploy this function (Serve this through an API) - model bit
+- Create front end web app - Streamlit
+- call api from web app.
