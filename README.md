@@ -1,4 +1,8 @@
 # Computer Vision
+## VidSummAPI: Video Summarization API Using DSNet
+![image](https://github.com/TVR28/Computer-Vision/assets/91713140/0e1f1ef1-9fea-491e-99e0-ab0df30ad142)
+
+
 ## Background Removal Using Segment Any
 ![background_removal](https://github.com/TVR28/Computer-Vision/assets/91713140/9d0dd985-7f09-4c5d-9d1e-91e2fa3f232d)
 
