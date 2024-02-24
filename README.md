@@ -12,4 +12,6 @@
 ## YoloV8 Object Detection
 ![image](https://github.com/TVR28/Computer-Vision/assets/91713140/565ae4e7-24b0-4b58-b893-828dab725880)
 
+## Lip Reading: Deep Learning Based Spoken Text Generation from Lip Movement
+![lipnet](https://github.com/TVR28/Computer-Vision/assets/91713140/855ad735-cc52-4da0-8fbe-c82f7b06f87c)
 
