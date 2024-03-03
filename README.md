@@ -14,8 +14,16 @@ The Gym Workout Tracker is a pose detection application that uses Python, OpenCV
 Make sure you have Python 3 installed. Then, clone the repository and install the necessary packages:
 
 ```bash
-git clone https://github.com/airscholar/AI-Workout-Manager.git
-cd AI-Workout-Manager
+git clone https://github.com/TVR28/Computer-Vision.git
+cd Computer-Vision
+```
+Create `Venv` environment and install all dependencies.
+```
+conda create -p venv python==3.9 -y
+conda activate venv/
+```
+Install all requirements
+```
 pip install -r requirements.txt
 ```
 
