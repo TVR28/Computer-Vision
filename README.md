@@ -2,6 +2,9 @@
 
 The Gym Workout Tracker is a pose detection application that uses Python, OpenCV, and MediaPipe to count exercise reps and estimate posture. It's capable of identifying different stages of reps and can calculate angles between various body landmarks during different workouts like bicep curls, pushups etc.
 
+![Screenshot (623)](https://github.com/TVR28/Computer-Vision/assets/91713140/bb216a78-e0c4-42c1-b545-1a208927ca9d)
+
+
 ## Features
 
 - Real-time pose detection.
