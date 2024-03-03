@@ -1,15 +1,6 @@
 # Realtime Gym Workout Tracker
-## Realtime workout tracker using **OpenCv** and **MediaPipe**
 
-- A Bicep curl counter is built using `OpenCv` and `MediaPipe` in python
-- We estimate the joint cordinates and calculate angles between joints
-- Then we setup a counter for motion of bicep curl based on angles between the joints.
-
-_More workouts to be added..._
-
-# AI Workout Manager
-
-The AI Workout Manager is a pose detection application that uses Python, OpenCV, and MediaPipe to count exercise reps. It's capable of identifying different stages of reps and can calculate angles between various body landmarks during the workout.
+The Gym Workout Tracker is a pose detection application that uses Python, OpenCV, and MediaPipe to count exercise reps and estimate posture. It's capable of identifying different stages of reps and can calculate angles between various body landmarks during different workouts like bicep curls, pushups etc.
 
 ## Features
 
@@ -30,16 +21,16 @@ pip install -r requirements.txt
 
 ## Dependencies
 
-The AI Workout Manager relies on the following libraries:
+The Gym Workout Tracker relies on the following libraries:
 
-- OpenCV for image and video processing.
-- MediaPipe for pose detection.
-- Numpy for numerical operations.
-- Math and time libraries from Python's standard library.
+- `OpenCV` for image and video processing.
+- `MediaPipe` for pose detection.
+- `Numpy` for numerical operations.
+- `Math` and `time` libraries from Python's standard library.
 
 ## Usage
 
-You can run the AI Workout Manager by using the following command:
+You can run the Gym Workout Manager by using the following command:
 
 ```bash
 python main.py
@@ -58,4 +49,4 @@ The assets directory contains any external assets, like videos or images, that t
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to write me an email at airscholar@gmail.com.
+If you have any questions or suggestions, please feel free to write me an email at tvrraviteja@gmail.com.
