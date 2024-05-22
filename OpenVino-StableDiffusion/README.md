@@ -1,7 +1,7 @@
 # Stable Diffusion with OpenVINO
 
 Implementation of Text-To-Image generation using Stable Diffusion on Intel CPU or GPU.
-[image](/data/title.png)
+https://github.com/TVR28/Computer-Vision/blob/main/OpenVino-StableDiffusion/data/title.png?raw=true
 
 ## Requirements
 
