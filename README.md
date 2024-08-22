@@ -1,11 +1,18 @@
 # Computer Vision
 This repository consists of various computer vision and Multimodal AI projects. The projects focus on various fields of CV such as:
-- `Vision Language Models and Multimodal AI`
+- ### Vision Language Models and Multimodal AI`
+- `Stable Diffusion (Text-To-Image Generation)`
 - `Video Summarization`
 - `Object Tracking (Face Tracking & Lip Tracking)`
 - `Object Detection`
 - `Semantic Segmentation and Segment Anything`
 - `Realtime Pose Estimation`
+
+The tools in which I gained proficiency while working on these projects are:
+- PyTorch
+- OpenCV
+- OpenVino
+
 
 ## Multimodal AI Assistant
 ![image](https://github.com/user-attachments/assets/b7c74b6f-b144-4ab4-9b5a-2b97de6e6334)
