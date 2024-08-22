@@ -1,0 +1,12 @@
+transformers==4.37.2
+bitsandbytes==0.41.3
+accelerate==0.25.0
+openai-whisper
+gradio
+gTTS
+torch
+nltk
+Pillow
+numpy
+ffmpeg-python
+    
