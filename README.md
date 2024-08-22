@@ -13,6 +13,10 @@ The tools in which I gained proficiency while working on these projects are:
 - `TensorFlow`
 - `OpenCV`
 - `OpenVino`
+- `Transformers`
+- `OpenAI`
+- `Diffusers`
+  
 
 
 
