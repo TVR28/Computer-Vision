@@ -2,6 +2,7 @@
 This repository consists of various computer vision projects 
 
 ## Multimodal AI Assistant
+![image](https://github.com/user-attachments/assets/b7c74b6f-b144-4ab4-9b5a-2b97de6e6334)
 
 ## VidSummAPI: Video Summarization API Using DSNet
 ![image](https://github.com/TVR28/Computer-Vision/assets/91713140/0e1f1ef1-9fea-491e-99e0-ab0df30ad142)
