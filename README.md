@@ -9,9 +9,11 @@ This repository consists of various computer vision and Multimodal AI projects. 
 - **`Realtime Pose Estimation`**
 
 The tools in which I gained proficiency while working on these projects are:
-- `PyTorch` <img src="https://img.shields.io/badge/Swift-5.10-red" />
+- `PyTorch`
+- `TensorFlow`
 - `OpenCV`
 - `OpenVino`
+
 
 
 ## Multimodal AI Assistant
