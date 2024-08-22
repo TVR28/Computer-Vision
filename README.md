@@ -1,5 +1,5 @@
 # Computer Vision
-This repository consists of various computer vision projects 
+This repository consists of various computer vision projects using Vision Language Models and Multimodal AI, Video Summarization, Object Tracking (Face Tracking & Lip Tracking), Object Detection,  Semantic Segmentation and Segment Anything, Realtime Pose Estimation
 
 ## Multimodal AI Assistant
 ![image](https://github.com/user-attachments/assets/b7c74b6f-b144-4ab4-9b5a-2b97de6e6334)
